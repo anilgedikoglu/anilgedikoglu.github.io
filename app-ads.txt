@@ -1,4 +1,1 @@
-# magnus (Android) — com.magnus.magnus
-# matematikcik (Android) — com.matematikcik.matematikcik
-# amin (Android) — com.amin.amin
-google.com, pub-6470338276121414, DIRECT, f08c47fec0942fa0
+﻿google.com, pub-6470338276121414, DIRECT, f08c47fec0942fa0
