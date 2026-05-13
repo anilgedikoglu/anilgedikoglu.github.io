@@ -1,1 +1,5 @@
-﻿google.com, pub-6470338276121414, DIRECT, f08c47fec0942fa0
+# magnus (Android) — com.magnus.magnus
+# matematikcik (Android) — com.matematikcik.matematikcik
+# amin (Android) — com.amin.amin
+# delil (Android) — com.delilapp.delil
+google.com, pub-6470338276121414, DIRECT, f08c47fec0942fa0
